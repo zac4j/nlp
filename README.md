@@ -1,6 +1,6 @@
-# nlp
+# NLP (Natural Language Processing)
 
-This repository stores the notebooks of the Kaggle NLP competitions I participated in before.
+This repository stores the jupyter notebooks of the Kaggle NLP competitions I participated in before.
 
 The competitions are:
 
@@ -20,7 +20,15 @@ The competition is evaluated using Accuracy as a metric.
 
 Following blog has good information on how to look at the problem. https://cloud.google.com/blog/products/gcp/problem-solving-with-ml-automatic-document-classification
 
+### Model Performance
 
+|       |     Model Name     | Accuracy |   Score  |
+|-------|:------------------:|:--------:|:--------:|
+| Train | LogisticRegression | 0.974497 |          |
+|       | MultinomialNB      | 0.970470 |          |
+|       | NMF                | 0.948993 |          |
+|       | SVC                | 0.977852 |          |
+| Test  | SVC                |          | 0.98503  |
 
 ##  Natural Language Processing with Disaster Tweets
 
@@ -31,3 +39,11 @@ Following blog has good information on how to look at the problem. https://cloud
 This particular challenge is perfect for data scientists looking to get started with Natural Language Processing. The competition dataset is not too big, and even if you don’t have much personal computing power, you can do all of the work in our free, no-setup, Jupyter Notebooks environment called Kaggle Notebooks.
 
 If you want to talk with other users about this competition, come join our Discord! We've got channels for competitions, job postings and career discussions, resources, and socializing with your fellow data scientists. Follow the link here: https://discord.gg/kaggle
+
+### Model Performance
+
+|       | Model Name | Accuracy |   Score  |
+|-------|:----------:|:--------:|:--------:|
+| Train | RNN        | 0.953125 |          |
+|       | DistilBERT | 0.962623 |          |
+| Test  | DistilBERT |          |  0.80232 |
