@@ -1,12 +1,12 @@
-# NLP (Natural Language Processing)
+# Natural Language Processing (NLP) in Machine Learning
 
-This repository stores the jupyter notebooks of the Kaggle NLP competitions I participated in before.
+This repository stores the Jupyter Notebooks of the Kaggle NLP competitions I participated in before.
 
 The competitions are:
 
-## BBC News Classification
+## [BBC News Classification](https://www.kaggle.com/competitions/learn-ai-bbc)
 
-[Home](https://www.kaggle.com/competitions/learn-ai-bbc) | [Notebook](https://github.com/zac4j/nlp/blob/main/bbc-news-classification.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/dazhengzhu/bbc-news-classification) | [Notebook](https://github.com/zac4j/nlp/blob/main/bbc-news-classification.ipynb)
 
 ### Description
 
@@ -30,9 +30,9 @@ Following blog has good information on how to look at the problem. https://cloud
 |       | SVC                | 0.977852 |          |
 | Test  | SVC                |          | 0.98503  |
 
-##  Natural Language Processing with Disaster Tweets
+## [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
 
-[Home](https://www.kaggle.com/competitions/nlp-getting-started) | [Notebook](https://github.com/zac4j/nlp/blob/main/disaster_tweets_classification.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/dazhengzhu/nlp-with-disaster-tweets) | [Notebook](https://github.com/zac4j/nlp/blob/main/disaster_tweets_classification.ipynb)
 
 ### Description
 
